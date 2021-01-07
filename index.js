@@ -36,6 +36,11 @@ app.get('/products', (req, res) => {
     }
 });
 
+// Simple post request
+app.post('/json', (req, res) => {
+    res.status(200).json({ message: 'OK' });
+});
+
 app.listen(3000, () => {
     console.log('Listening on port 3000!'); // Simple callback
 })
