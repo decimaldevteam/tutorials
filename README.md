@@ -8,4 +8,4 @@ Each source code of the tutorials is kept in a branch!
 | S.no  | Name          | YouTube |
 |-------|---------------|---------|
 | 1.    | [express.js-ep-1](https://github.com/decimaldevteam/tutorials/tree/express.js-ep-1) | [YouTube](https://www.youtube.com/watch?v=lvuBUh09wsI) |
-| 1.    | [express.js-ep-2](https://github.com/decimaldevteam/tutorials/tree/express.js-ep-2) | [YouTube](https://www.youtube.com/watch?v=22FF5yGn8fY) |
+| 2.    | [express.js-ep-2](https://github.com/decimaldevteam/tutorials/tree/express.js-ep-2) | [YouTube](https://www.youtube.com/watch?v=22FF5yGn8fY) |
